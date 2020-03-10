@@ -10,5 +10,5 @@ Interests: Natural Language Processing, Wearable technology, time series and cha
 
 
 ### Projects & papers
-* [https://github.com/AUOlabs/BOCE-embeddings]
-* [https://link.springer.com/article/10.1007/s41666-019-00064-1]
+* [https://github.com/AUOlabs/BOCE-embeddings](https://github.com/AUOlabs/BOCE-embeddings)
+* [https://link.springer.com/article/10.1007/s41666-019-00064-1](https://link.springer.com/article/10.1007/s41666-019-00064-1)
