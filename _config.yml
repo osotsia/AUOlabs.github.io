@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ame Osotsi"
   avatar : "/assets/images/IMG_0685.png"
-  bio    : 'If there's a book that you want to read, but it hasn't been written yet, then you must write it.' - Toni Morrison. | 'If you only read the books that everyone else is reading, you can only think what everyone else is thinking.' - Haruki Murakami
+  bio    : "'If there's a book that you want to read, but it hasn't been written yet, then you must write it.' - Toni Morrison. | 'If you only read the books that everyone else is reading, you can only think what everyone else is thinking.' - Haruki Murakami"
   links:
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
