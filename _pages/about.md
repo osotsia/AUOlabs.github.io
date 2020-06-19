@@ -8,7 +8,7 @@ Currently a PhD student at Penn State.
 Interests: Robustness, Natural Language Processing, Wearable technology, time series, and change point analysis.
 
 ### Projects & papers
-* [https://github.com/AUOlabs/BOCE-embeddings](https://github.com/osotsia/BOCE-embeddings)
+* [https://github.com/osotsia/BOCE-embeddings](https://github.com/osotsia/BOCE-embeddings)
 * [https://link.springer.com/article/10.1007/s41666-019-00064-1](https://link.springer.com/article/10.1007/s41666-019-00064-1)
 
 ### Quotes
